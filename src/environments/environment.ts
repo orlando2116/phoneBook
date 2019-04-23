@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://private-anon-ce6bd7cab5-testphonebook.apiary-mock.com/'
+  apiUrl: 'https://private-anon-ce6bd7cab5-testphonebook.apiary-mock.com/'
 };
 
 /*
